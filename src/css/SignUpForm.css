@@ -1,0 +1,18 @@
+.FormField__CheckboxLabel {
+    color: #646F7D;
+    font-size: .9em;
+}
+
+.FormField__Checkbox {
+    position: relative;
+    top: 1.5px;
+}
+
+.FormField__TermsLink {
+    color: white;
+    border-bottom: 1px solid #199087;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 2px;
+    margin-left: 5px;
+}
